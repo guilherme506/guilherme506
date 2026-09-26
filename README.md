@@ -38,20 +38,11 @@ Acredito que a prática, a disciplina e a curiosidade são fundamentais para o c
 - [curso_em_video](https://github.com/guilherme506/curso_em_video)  
   Repositório com materiais, exercícios e apoio para estudos de programação.
 
-- [C-_aulas_projetos](https://github.com/guilherme506/C-_aulas_projetos)  
-  Estudos e projetos envolvendo C#.
-
 - [Banco-de-dados-](https://github.com/guilherme506/Banco-de-dados-)  
   Estudos e projetos com PHP e MySQL.
 
 - [Tradutor](https://github.com/guilherme506/Tradutor)  
   Projeto voltado para tradução de arquivos PDF e processamento de texto.
-
-- [PHP-UDF](https://github.com/guilherme506/PHP-UDF)  
-  Aulas e exercícios de PHP.
-  
-- [JavaScript-curso](https://github.com/guilherme506/JavaScript-curso)  
-  Repositório com materiais e exercícios de JavaScript.
   
 - [Cursos](https://github.com/guilherme506/Cursos)  
   Repositório com materiais e projetos de cursos gerais.
